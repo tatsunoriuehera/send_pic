@@ -1,0 +1,14 @@
+bootstrapでファイルをアップロード
+
+https://qiita.com/gsk3beta/items/46d44793827920282f75
+
+phpファイルアップロード　複数
+https://qiita.com/kiryuumomoka/items/0bd7bc0e96ea61d3aeec
+
+countエラー
+https://qiita.com/masaki-ogawa/items/1671d110b2286ececd09
+
+is_upload_fileエラー
+http://phpspot.net/php/man/php/function.is-uploaded-file.html
+
+sendpic_boot.php -> sendpicmulti_submit.php

@@ -10,7 +10,7 @@ size:<?php print ($file["size"]); ?><br />
 
 <?php
 $ext=substr($file["name"],-4);//拡張子の検査　後ろから４つ分
-if($ext==".git"||$ext==".jpg"||$ext==".png"||$ext==".JPG"):
+if($ext==".git"||$ext==".jpg"||$ext==".png"||$ext==".JPG"||$ext=="jpeg"):
   $filePath="./user_img/" . $file["name"];//保存したいフォルダの指定
   $success=move_uploaded_file($file["tmp_name"], $filePath);//一時フォルダから保存したいフォルダへ移動
 
